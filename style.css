@@ -1,0 +1,43 @@
+body
+	{
+		background-color: #8DD9CC;
+	}
+
+h1 
+
+	{
+		background-color: softblue;
+		font-face: ink free;
+		fony-size: 100px;
+		color: black;
+		border: solid;
+		border-color: #006a4e;
+		border-radius: 50px;
+	}
+
+p
+	{
+		background-color: softblue;
+		font-size: 30px;
+		text-align: center;
+		color: blue;
+		font-family: 'Dancing Script', cursive;
+		padding: 15px;
+	}
+
+a:link, a:visited personal portfolio
+		{
+			background-color: grey;
+			color: black;
+			text-allign: center;
+			text-decoration: none;
+			display: inline block;
+			border-radius: 15px;
+			padding: 15px;
+		}
+
+a:hover, a;active 
+		{
+			background-color: black;
+			color: white;
+		}
